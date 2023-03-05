@@ -1,0 +1,17 @@
+Country,Region,Sales
+Scotland,North,100
+Scotland,South,200
+Scotland,East,250
+Scotland,West,225
+England,North,170
+England,South,450
+England,East,600
+England,West,220
+Wales,North,340
+Wales,South,400
+Wales,East,270
+Wales,West,420
+Ireland,North,540
+Ireland,South,320
+Ireland,East,650
+Ireland,West,240

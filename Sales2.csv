@@ -1,0 +1,17 @@
+Country,Region,Sales,Manager,Age
+Scotland,North,100,John,45
+Scotland,South,200,Paul,34
+Scotland,East,250,George,54
+Scotland,West,225,Ringo,23
+England,North,170,Davy,52
+England,South,450,Mike,35
+England,East,600,Micky,42
+England,West,220,Peter,31
+Wales,North,340,Judith,23
+Wales,South,400,Athol,22
+Wales,East,270,Keith,53
+Wales,West,420,Bruce,47
+Ireland,North,540,Brian,39
+Ireland,South,320,Dennis,27
+Ireland,East,650,Mike,26
+Ireland,West,240,Carl,44
